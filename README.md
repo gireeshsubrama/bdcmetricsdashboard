@@ -56,6 +56,12 @@ This Repository is for the NHLBI BDC Metrics Dashboard. A proof of Concept of th
   4) The number of searches performed in the Study Variable Explorer.
   5) The number of times “Query dataset” has been clicked in the Annotation Explorer.
 
+### Search Terms:
+* For PIC-SURE and Dug
+* Search Term: Text string representing the given search term
+* Timestamp: Timestamp of the search term, in "DD-MM-YYYY HH:MM" Format.
+* Comment: Free text of any comment relevant to the Search Term (For example, explaining a change in search term frequency over a given time period)
+
 ### Exports: 
 * Dug: N/A
 * PIC-SURE: The number of times a cohort has been Exported to Seven Bridges, Exported to Terra, or downloaded as either a CSV or PFB
@@ -63,12 +69,26 @@ This Repository is for the NHLBI BDC Metrics Dashboard. A proof of Concept of th
 * Terra: N/A
 * Seven Bridges: N/A
 
-### Imports: 
+### PFB_Imports: 
 * Dug: N/A
 * PIC-SURE: N/A
 * Gen3: N/A
-* Terra: The number of times data has been imported into the platform by a user into a Terra Workspace (BYOD Data).
-* Seven Bridges: The number of times data has been imported into the platform by a user into a Seven Bridges Project (BYOD Data).
+* Terra: The number of PFB files imported into the platform by a user into a Terra Workspace.
+* Seven Bridges: The number of PFB files imported into the platform by a user into a Seven Bridges Project.
+
+### DRS_Resolved: 
+* Dug: N/A
+* PIC-SURE: N/A
+* Gen3: N/A
+* Terra: The number of DRS files resolved in Terra.
+* Seven Bridges: The number of DRS files resolved in Seven Bridges.
+
+### BYOD_Imports: 
+* Dug: N/A
+* PIC-SURE: N/A
+* Gen3: N/A
+* Terra: The number of times BYOD data has been imported into the platform by a user into a Terra Workspace.
+* Seven Bridges: The number of times BYOD data has been imported into the platform by a user into a Seven Bridges Project.
 
 ### Workflows Run:
 * Dug: N/A
@@ -83,10 +103,6 @@ This Repository is for the NHLBI BDC Metrics Dashboard. A proof of Concept of th
 * Gen3: N/A
 * Terra: The total number of interactive analyses run in a Terra workspace using JupyterLab, RStudio, Bioconductor or Galaxy.
 * Seven Bridges: The total number of interactive Data Studio analysis started using JuypterLab, RStudio, or SAS Studio.
-
-
-
-
 
 # Proof of Concept Examples
 <img width="682" alt="Executive Metrics Dashboard" src="https://github.com/gireeshsubrama/bdcmetricsdashboard/assets/148978711/a4f832f9-a7e5-42b7-a05e-1b6c21ab49de">
