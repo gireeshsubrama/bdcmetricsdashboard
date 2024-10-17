@@ -38,7 +38,7 @@ This Repository is for the NHLBI BDC Metrics Dashboard. A proof of Concept of th
 * Seven Bridges: Total logins to Seven Bridges via eRA Commons or BDC Developer Login
 
 ### Visits:
-* Dug: Total visits to [Dug](https://search.biodatacatalyst.renci.org/)
+* Dug: Total visits to [Dug](https://biodatacatalyst.nhlbi.nih.gov/use-bdc/explore-data/dug/)
 * PIC-SURE: Total Visits to [Open PIC-SURE](https://openpicsure.biodatacatalyst.nhlbi.nih.gov/picsureui/)
 * Gen3: Total unique user visits to [Gen3 Data Portal](https://gen3.biodatacatalyst.nhlbi.nih.gov/)
 * Terra: N/A
