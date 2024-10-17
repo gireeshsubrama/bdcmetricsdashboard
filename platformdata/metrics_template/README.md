@@ -26,8 +26,7 @@
   4) The number of searches performed in the Study Variable Explorer.
   5) The number of times “Query dataset” has been clicked in the Annotation Explorer.
 
-## Search Terms:
-* For PIC-SURE and Dug
+## Search Terms (PIC-SURE and Dug):
 * Search Term: Text string representing the given search term
 * Timestamp: Timestamp of the search term, in "DD-MM-YYYY HH:MM" Format.
 * Comment: Free text of any comment relevant to the Search Term (For example, explaining a change in search term frequency over a given time period)
