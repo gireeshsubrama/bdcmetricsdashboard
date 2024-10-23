@@ -42,22 +42,15 @@
 * Dug: N/A
 * PIC-SURE: N/A
 * Gen3: N/A
-* Terra: The number of PFB files imported into the platform by a user into a Terra Workspace.
-* Seven Bridges: The number of PFB files imported into the platform by a user into a Seven Bridges Project.
+* Terra: The number of BDC-specific PFB files imported into the platform by a user into a Terra Workspace.
+* Seven Bridges: The number of BDC-specific PFB files imported into the platform by a user into a Seven Bridges Project.
 
 ## DRS_Resolved: 
 * Dug: N/A
 * PIC-SURE: N/A
 * Gen3: N/A
-* Terra: The number of DRS files resolved in Terra.
-* Seven Bridges: The number of DRS files resolved in Seven Bridges.
-
-## BYOD_Imports: 
-* Dug: N/A
-* PIC-SURE: N/A
-* Gen3: N/A
-* Terra: The number of times BYOD data has been imported into the platform by a user into a Terra Workspace.
-* Seven Bridges: The number of times BYOD data has been imported into the platform by a user into a Seven Bridges Project.
+* Terra: The number of BDC-specific DRS files resolved in Terra.
+* Seven Bridges: The number of BDC-specific DRS files resolved in Seven Bridges.
 
 ## Workflows Run:
 * Dug: N/A
