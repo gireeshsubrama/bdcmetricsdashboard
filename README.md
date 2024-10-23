@@ -56,8 +56,7 @@ This Repository is for the NHLBI BDC Metrics Dashboard. A proof of Concept of th
   4) The number of searches performed in the Study Variable Explorer.
   5) The number of times “Query dataset” has been clicked in the Annotation Explorer.
 
-### Search Terms:
-* For PIC-SURE and Dug
+### Search Terms (PIC-SURE and Dug):
 * Search Term: Text string representing the given search term
 * Timestamp: Timestamp of the search term, in "DD-MM-YYYY HH:MM" Format.
 * Comment: Free text of any comment relevant to the Search Term (For example, explaining a change in search term frequency over a given time period)
@@ -73,22 +72,15 @@ This Repository is for the NHLBI BDC Metrics Dashboard. A proof of Concept of th
 * Dug: N/A
 * PIC-SURE: N/A
 * Gen3: N/A
-* Terra: The number of PFB files imported into the platform by a user into a Terra Workspace.
-* Seven Bridges: The number of PFB files imported into the platform by a user into a Seven Bridges Project.
+* Terra: The number of BDC-specific PFB files imported into the platform by a user into a Terra Workspace.
+* Seven Bridges: The number of BDC-specific PFB files imported into the platform by a user into a Seven Bridges Project.
 
 ### DRS_Resolved: 
 * Dug: N/A
 * PIC-SURE: N/A
 * Gen3: N/A
-* Terra: The number of DRS files resolved in Terra.
-* Seven Bridges: The number of DRS files resolved in Seven Bridges.
-
-### BYOD_Imports: 
-* Dug: N/A
-* PIC-SURE: N/A
-* Gen3: N/A
-* Terra: The number of times BYOD data has been imported into the platform by a user into a Terra Workspace.
-* Seven Bridges: The number of times BYOD data has been imported into the platform by a user into a Seven Bridges Project.
+* Terra: The number of BDC-specific DRS files resolved in Terra.
+* Seven Bridges: The number of BDC-specific DRS files resolved in Seven Bridges.
 
 ### Workflows Run:
 * Dug: N/A
