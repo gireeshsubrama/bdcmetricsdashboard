@@ -1,11 +1,11 @@
 # Metric Field Definitions
 
-## Logins:
+## Unique Logins:
 * Dug: N/A
-* PIC-SURE: Total logins to Authorized PIC-SURE via eRA Commons or BDC Developer Login
-* Gen3: Total Logins to the BDC Ecosystem, via NIH login or BDC Developer Login
-* Terra: Total Logins to Terra via Google or Microsoft
-* Seven Bridges: Total logins to Seven Bridges via eRA Commons or BDC Developer Login
+* PIC-SURE: Unique logins to Authorized PIC-SURE via eRA Commons or BDC Developer Login
+* Gen3: Unique Logins to the BDC Ecosystem, via NIH login or BDC Developer Login
+* Terra: Unique Logins to Terra via Google or Microsoft
+* Seven Bridges: Unique logins to Seven Bridges via eRA Commons or BDC Developer Login
 
 ## Visits:
 * Dug: Total visits to [Dug](https://biodatacatalyst.nhlbi.nih.gov/use-bdc/explore-data/dug/)
